@@ -1,7 +1,8 @@
 ### Hello World! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEwNjlhZmM5YTk4M2ZlZjY4ODc2Zjg4NTIwMWZjOWE2YjQ0NWNlOCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   
   <div id="badges">
     <a href="https://linkedin.com/in/reza-asgharzadeh">
