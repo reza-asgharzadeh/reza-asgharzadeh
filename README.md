@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+Is+Reza+Asgharzadeh;I'm+A+Backend+Developer)](https://developersho.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+Is+Reza+Asgharzadeh;I'm+A+Back-End+Developer)](https://developersho.com)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0YTFjODM1NDBlMzc3OGFjOTgzZTlmYjQ2YWJlZTg0ODA3MDY1MSZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
